@@ -1,0 +1,42 @@
+
+Ukotlin:S1172l"6Remove this unused function parameter "navController".(–ó©ô8ÕÀ­«¯1
+Ykotlin:S1172œ"9Use "_" instead of this unused lambda parameter "offset".(¢‘ñ§8ÕÀ­«¯1
+Dkotlin:S6615q" Remove this useless initializer.(ÜÅÙ…ıÿÿÿÿ8ØÀ­«¯1
+=kotlin:S125İ"Remove this commented out code.(è»»_8ÛÀ­«¯1
+Ckotlin:S125ê"Remove this commented out code.(èúõÓøÿÿÿÿ8ÜÀ­«¯1
+=kotlin:S125¼"Remove this commented out code.(ƒØü8İÀ­«¯1
+=kotlin:S125ƒ"Remove this commented out code.(ƒÜ”H8ŞÀ­«¯1
+Ckotlin:S125‡"Remove this commented out code.(°„ãöşÿÿÿÿ8ŞÀ­«¯1
+rkotlin:S117”"SRename this local variable to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(³Œ™ı8æÀ­«¯1
+rkotlin:S117•"SRename this local variable to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(ÀúÙ¬8æÀ­«¯1
+rkotlin:S117–"SRename this local variable to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(Ï™Ê8æÀ­«¯1
+Mkotlin:S108ş")Either remove or fill this block of code.(€¸¦’üÿÿÿÿ8ïÀ­«¯1
+Qkotlin:S1135‹"2Complete the task associated to this TODO comment.(ƒÂş8ôÀ­«¯1
+Rkotlin:S1135"2Complete the task associated to this TODO comment.(È—“8õÀ­«¯1
+Ukotlin:S1481£"5Remove this unused "oldPositionvalue" local variable.(¸„…˜8øÀ­«¯1
+Ykotlin:S1481 "4Remove this unused "touchStateAngle" local variable.(Ìïßúÿÿÿÿ8øÀ­«¯1
+Tkotlin:S1481"4Remove this unused "drageStartAngle" local variable.(ª÷–å8øÀ­«¯1
+Okotlin:S1481„"*Remove this unused "scope" local variable.(Ö °Ÿÿÿÿÿÿ8øÀ­«¯1
+Qkotlin:S1481ƒ",Remove this unused "context" local variable.(˜®¾‚øÿÿÿÿ8øÀ­«¯1
+Hkotlin:S1481")Remove this unused "star" local variable.(º‹ô”8øÀ­«¯1
+Ukotlin:S1481Ø"0Remove this unused "presentHour" local variable.(Œ£ƒúúÿÿÿÿ8øÀ­«¯1
+Zkotlin:S1481Õ"5Remove this unused "morningStartTime" local variable.(’ƒĞäùÿÿÿÿ8øÀ­«¯1
+9kotlin:S1128"Remove this unused import.(åå8€Á­«¯1
+9kotlin:S1128"Remove this unused import.(úŒ«–8€Á­«¯1
+>kotlin:S1128"Remove this unused import.(“°–ûÿÿÿÿ8€Á­«¯1
+9kotlin:S1128"Remove this unused import.(¤¯†8€Á­«¯1
+>kotlin:S1128""Remove this unused import.(²Üñşÿÿÿÿ8€Á­«¯1
+>kotlin:S1128#"Remove this unused import.(®•±âùÿÿÿÿ8€Á­«¯1
+9kotlin:S1128$"Remove this unused import.(™òæÜ8€Á­«¯1
+>kotlin:S1128)"Remove this unused import.(½Ø‡àøÿÿÿÿ8€Á­«¯1
+8kotlin:S11281"Remove this unused import.(†™¹$8€Á­«¯1
+9kotlin:S1128B"Remove this unused import.(…µÂÄ8€Á­«¯1
+>kotlin:S1128F"Remove this unused import.(É°¹ªøÿÿÿÿ8€Á­«¯1
+9kotlin:S1128K"Remove this unused import.(ÿ°’ã8€Á­«¯1
+>kotlin:S1128`"Remove this unused import.(èãÊõûÿÿÿÿ8€Á­«¯1
+>kotlin:S1128b"Remove this unused import.(£ñ¹¸ûÿÿÿÿ8€Á­«¯1
+>kotlin:S1128c"Remove this unused import.(ŞŠ‹Ùüÿÿÿÿ8Á­«¯1
+>kotlin:S1128e"Remove this unused import.(Šëİ¨ÿÿÿÿÿ8Á­«¯1
+Fkotlin:S1110Ù"!Remove these useless parentheses.(¸ù¶ùÿÿÿÿ8†Á­«¯1
+qkotlin:S3776l"RRefactor this method to reduce its Cognitive Complexity from 73 to the 15 allowed.(–ó©ô8ˆÁ­«¯1
+zkotlin:S1186©"ZAdd a nested comment explaining why this function is empty or complete the implementation.(ì“Ô²8ŒÁ­«¯1
